@@ -1,0 +1,53 @@
+.page {
+    width: "700px";
+    margin: auto;
+    font-family: 'source sans pro', calibri, Tahoma, sans-serif;
+    font-size: "16px";
+}
+
+.sec-info_perso {
+    height: "250px";
+}
+
+.h1 {
+    position: absolute;
+    bottom: "0px";
+    right: "0px";
+}
+
+.section {
+    margin-bottom: "70px";
+    text-align: justify;
+}
+
+.sec-droite {
+    margin-left: "150px";
+}
+
+.sec-gauche {
+    float: left;
+    font-size: "20px";
+}
+
+.h2 {
+    font-size: "28px";
+    color: #338888;
+    border-bottom: "3px" solid#3388DD;
+}
+
+.photo {
+    position: relative;
+    height: "20%";
+}
+
+.paragraphe {
+    background-color: blue;
+    width: "70%";
+    margin-bottom:
+}
+
+.photo2 {
+    border-radius: "20%";
+}
+
+.conteneur {}
